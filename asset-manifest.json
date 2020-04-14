@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/serverless-app/static/css/main.70b90cf6.chunk.css",
-    "main.js": "/serverless-app/static/js/main.9c28b6ba.chunk.js",
-    "main.js.map": "/serverless-app/static/js/main.9c28b6ba.chunk.js.map",
+    "main.js": "/serverless-app/static/js/main.26c46f53.chunk.js",
+    "main.js.map": "/serverless-app/static/js/main.26c46f53.chunk.js.map",
     "runtime-main.js": "/serverless-app/static/js/runtime-main.b73e587d.js",
     "runtime-main.js.map": "/serverless-app/static/js/runtime-main.b73e587d.js.map",
-    "static/js/2.9fca9685.chunk.js": "/serverless-app/static/js/2.9fca9685.chunk.js",
-    "static/js/2.9fca9685.chunk.js.map": "/serverless-app/static/js/2.9fca9685.chunk.js.map",
+    "static/js/2.5094d7ab.chunk.js": "/serverless-app/static/js/2.5094d7ab.chunk.js",
+    "static/js/2.5094d7ab.chunk.js.map": "/serverless-app/static/js/2.5094d7ab.chunk.js.map",
     "index.html": "/serverless-app/index.html",
-    "precache-manifest.82d8224f9aa0a5db457436d879dc1f3b.js": "/serverless-app/precache-manifest.82d8224f9aa0a5db457436d879dc1f3b.js",
+    "precache-manifest.d4863a6ff953c0eb90997504ec7f4fbf.js": "/serverless-app/precache-manifest.d4863a6ff953c0eb90997504ec7f4fbf.js",
     "service-worker.js": "/serverless-app/service-worker.js",
     "static/css/main.70b90cf6.chunk.css.map": "/serverless-app/static/css/main.70b90cf6.chunk.css.map",
-    "static/js/2.9fca9685.chunk.js.LICENSE.txt": "/serverless-app/static/js/2.9fca9685.chunk.js.LICENSE.txt"
+    "static/js/2.5094d7ab.chunk.js.LICENSE.txt": "/serverless-app/static/js/2.5094d7ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b73e587d.js",
-    "static/js/2.9fca9685.chunk.js",
+    "static/js/2.5094d7ab.chunk.js",
     "static/css/main.70b90cf6.chunk.css",
-    "static/js/main.9c28b6ba.chunk.js"
+    "static/js/main.26c46f53.chunk.js"
   ]
 }
